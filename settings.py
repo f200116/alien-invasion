@@ -38,7 +38,7 @@ class Settings:
         """初始化随游戏进行而变化的设置。"""
         self.ship_speed = 15
         self.bullet_speed = 15
-        self.alien_speed = 50
+        self.alien_speed = 5
 
         # fleet_direction为1表示向右，为-1表示向左。
         self.fleet_direction = 1
