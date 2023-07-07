@@ -1,10 +1,9 @@
 # Alien-invasion
 外星人入侵小游戏  
-基于Pygame制作的外星人入侵小游戏
-以前学python的时候 跟着网上还有书上面写的  
+基于Pygame制作的外星人入侵小游戏  
 对`python`小白非常友好
 ## 安装依赖
-`pip install requirements.txt`
+`pip install -r requirements.txt`
 ## 启动游戏
 `python alien_invasion.py`
 ## 游戏内截图
